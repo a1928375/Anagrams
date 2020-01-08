@@ -6,4 +6,4 @@
 
    Your function should not return every permutation of a multi word anagram: only the permutation where the words are in alphabetical        order. For example, for the input string 'ANAGRAMS' the set that your function returns should include 'AN ARM SAG', but should NOT          include 'ARM SAG AN', or 'SAG AN ARM', etc...
       
-(2) Readwordlist: Write a function, readwordlist, that takes a filename as input and returns a set of all the words and a set of all the prefixes in that file, in uppercase. For testing, you can assume that you have access to a file called 'words4k.txt'
+(2) Readwordlist: Write a function, readwordlist, that takes a filename as input and returns a set of all the words and a set of all the prefixes in that file, in uppercase. For testing, you can assume that you have access to a file called 'words4k.txt'.
